@@ -1,7 +1,7 @@
 # This is Azam Uday
 ### I’m a Front End Web Designer
 Assalamu alaikum. This is “Azam Uday” From Bangladesh. Currently i'm working on Front End Web Design.
-## Skills: HTML/CSS/BOOTSTRAP
+## Skill: HTML/CSS/BOOTSTRAP
 
 - 🔭 I’m currently working on FRONT END WEB DESIGN
 
