@@ -1,6 +1,10 @@
 <h1 align="center">Assalamu Alikum,This is Azam Uday</h1>
 <h3 align="center">Web Designer and WordPress Developer</h3>
 
+<p>Welcome to my GitHub profile. I am a MERN Stack Developer and Web Designer.</p>
+
+<h5>Skills: PHP/ JAVASCRIPT/ BOOTSTRAP/ REACT/ CSS / HTML </h5>
+
 - 🔭 I’m currently working on **Fiverr**
 
 - 🌱 I’m currently learning **php,js**
